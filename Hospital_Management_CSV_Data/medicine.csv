@@ -1,0 +1,26 @@
+medicine_id,medicine_name,category,manufacturer,unit_price,stock_quantity,expiry_date
+201,Paracetamol 500mg,Tablet,Sun Pharma,2.0,60,01-01-2027
+202,Amoxicillin 250mg,Capsule,Cipla,5.75,97,14-01-2027
+203,Pantoprazole 40mg,Tablet,Dr. Reddy's,9.5,134,27-01-2027
+204,Cetirizine 10mg,Tablet,Zydus,13.25,171,09-02-2027
+205,Azithromycin 500mg,Tablet,Abbott,17.0,208,22-02-2027
+206,Ibuprofen 400mg,Tablet,Abbott,20.75,245,07-03-2027
+207,Vitamin D3,Capsule,Mankind,24.5,282,20-03-2027
+208,Insulin,Injection,Novo Nordisk,28.25,319,02-04-2027
+209,Salbutamol,Inhaler,Cipla,32.0,356,15-04-2027
+210,Hydrocortisone,Injection,Pfizer,35.75,393,28-04-2027
+211,Metformin 500mg,Tablet,Sun Pharma,39.5,430,11-05-2027
+212,Amlodipine 5mg,Tablet,Cipla,43.25,467,24-05-2027
+213,Atorvastatin 10mg,Tablet,Dr. Reddy's,47.0,504,06-06-2027
+214,Omeprazole 20mg,Capsule,Zydus,50.75,541,19-06-2027
+215,Levocetirizine 5mg,Tablet,Abbott,54.5,78,02-07-2027
+216,Diclofenac 50mg,Tablet,Abbott,58.25,115,15-07-2027
+217,Montelukast 10mg,Tablet,Mankind,62.0,152,28-07-2027
+218,Cefixime 200mg,Tablet,Novo Nordisk,65.75,189,10-08-2027
+219,Ondansetron 4mg,Tablet,Cipla,69.5,226,23-08-2027
+220,Calcium Carbonate,Tablet,Pfizer,73.25,263,05-09-2027
+221,Clopidogrel 75mg,Tablet,Sun Pharma,77.0,300,18-09-2027
+222,Losartan 50mg,Tablet,Cipla,80.75,337,01-10-2027
+223,Prednisolone 10mg,Tablet,Dr. Reddy's,84.5,374,14-10-2027
+224,Azithromycin Syrup,Syrup,Zydus,88.25,411,27-10-2027
+225,ORS,Powder,Abbott,92.0,448,09-11-2027

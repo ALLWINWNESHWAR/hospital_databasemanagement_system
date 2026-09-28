@@ -1,0 +1,21 @@
+doctor_id,department_id,doctor_name,specialization,phone,email,joining_date,salary
+101,1,Dr. Arun Kumar,Cardiologist,9876501001,doctor1@hdbms.com,01-01-2017,75000
+102,1,Dr. Priya Sharma,Cardiologist,9876501002,doctor2@hdbms.com,20-06-2017,78500
+103,1,Dr. Naveen Raj,Interventional Cardiologist,9876501003,doctor3@hdbms.com,07-12-2017,82000
+104,1,Dr. Anjali Menon,Cardiologist,9876501004,doctor4@hdbms.com,26-05-2018,85500
+105,2,Dr. Rahul Menon,Neurologist,9876501005,doctor5@hdbms.com,12-11-2018,89000
+106,2,Dr. Vikram Singh,Neurologist,9876501006,doctor6@hdbms.com,01-05-2019,92500
+107,2,Dr. Deepa Nair,Neurosurgeon,9876501007,doctor7@hdbms.com,18-10-2019,96000
+108,3,Dr. Kavya Raj,Orthopedic Surgeon,9876501008,doctor8@hdbms.com,05-04-2020,75000
+109,3,Dr. Sandeep Rao,Orthopedic Surgeon,9876501009,doctor9@hdbms.com,22-09-2020,78500
+110,3,Dr. Harish Kumar,Sports Medicine Specialist,9876501010,doctor10@hdbms.com,11-03-2021,82000
+111,4,Dr. Meena Devi,Pediatrician,9876501011,doctor11@hdbms.com,28-08-2021,85500
+112,4,Dr. Riya Thomas,Pediatrician,9876501012,doctor12@hdbms.com,14-02-2022,89000
+113,4,Dr. Joseph Mathew,Pediatrician,9876501013,doctor13@hdbms.com,03-08-2022,92500
+114,5,Dr. Suresh Babu,General Physician,9876501014,doctor14@hdbms.com,20-01-2023,96000
+115,5,Dr. Lakshmi Narayanan,General Physician,9876501015,doctor15@hdbms.com,09-07-2023,75000
+116,5,Dr. Manoj Kumar,Internal Medicine Specialist,9876501016,doctor16@hdbms.com,26-12-2023,78500
+117,5,Dr. Swetha Rao,General Physician,9876501017,doctor17@hdbms.com,13-06-2024,82000
+118,6,Dr. Nisha Kumar,Dermatologist,9876501018,doctor18@hdbms.com,30-11-2024,85500
+119,6,Dr. Aarthi Raj,Dermatologist,9876501019,doctor19@hdbms.com,19-05-2025,89000
+120,6,Dr. Sanjay Dev,Dermatologist,9876501020,doctor20@hdbms.com,05-11-2025,92500

@@ -1,0 +1,21 @@
+admission_id,patient_id,room_id,admission_date,discharge_date,admission_reason,status
+701,1001,301,15-08-2026,17-08-2026,Observation,Discharged
+702,1002,302,16-08-2026,19-08-2026,Surgery,Discharged
+703,1003,303,17-08-2026,21-08-2026,Fever treatment,Discharged
+704,1004,304,18-08-2026,23-08-2026,Chest pain,Discharged
+705,1005,305,19-08-2026,25-08-2026,Fracture treatment,Discharged
+706,1006,306,20-08-2026,27-08-2026,Respiratory treatment,Discharged
+707,1007,307,21-08-2026,23-08-2026,Observation,Discharged
+708,1008,308,22-08-2026,25-08-2026,Surgery,Discharged
+709,1009,309,23-08-2026,27-08-2026,Fever treatment,Discharged
+710,1010,310,24-08-2026,29-08-2026,Chest pain,Discharged
+711,1011,311,25-08-2026,31-08-2026,Fracture treatment,Discharged
+712,1012,312,26-08-2026,02-09-2026,Respiratory treatment,Discharged
+713,1013,313,27-08-2026,29-08-2026,Observation,Discharged
+714,1014,314,28-08-2026,31-08-2026,Surgery,Discharged
+715,1015,315,29-08-2026,,Fever treatment,Admitted
+716,1016,316,30-08-2026,,Chest pain,Admitted
+717,1017,317,31-08-2026,,Fracture treatment,Admitted
+718,1018,318,01-09-2026,,Respiratory treatment,Admitted
+719,1019,319,02-09-2026,,Observation,Admitted
+720,1020,320,03-09-2026,,Surgery,Admitted

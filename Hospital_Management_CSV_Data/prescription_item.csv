@@ -1,0 +1,51 @@
+prescription_item_id,prescription_id,medicine_id,dosage,frequency,duration_days,quantity
+601,501,201,500 mg,Once daily,3,3
+602,502,202,250 mg,Twice daily,4,4
+603,503,203,10 mg,Three times daily,5,5
+604,504,204,40 mg,Once daily,6,6
+605,505,205,1 tablet,Twice daily,7,7
+606,506,206,500 mg,Three times daily,8,8
+607,507,207,250 mg,Once daily,9,9
+608,508,208,10 mg,Twice daily,10,10
+609,509,209,40 mg,Three times daily,11,11
+610,510,210,1 tablet,Once daily,12,12
+611,511,211,500 mg,Twice daily,13,13
+612,512,212,250 mg,Three times daily,14,14
+613,513,213,10 mg,Once daily,15,15
+614,514,214,40 mg,Twice daily,16,16
+615,515,215,1 tablet,Three times daily,3,17
+616,516,216,500 mg,Once daily,4,18
+617,517,217,250 mg,Twice daily,5,19
+618,518,218,10 mg,Three times daily,6,20
+619,519,219,40 mg,Once daily,7,21
+620,520,220,1 tablet,Twice daily,8,22
+621,521,221,500 mg,Three times daily,9,23
+622,522,222,250 mg,Once daily,10,24
+623,523,223,10 mg,Twice daily,11,25
+624,524,224,40 mg,Three times daily,12,26
+625,525,225,1 tablet,Once daily,13,27
+626,501,201,500 mg,Twice daily,14,28
+627,502,202,250 mg,Three times daily,15,29
+628,503,203,10 mg,Once daily,16,30
+629,504,204,40 mg,Twice daily,3,3
+630,505,205,1 tablet,Three times daily,4,4
+631,506,206,500 mg,Once daily,5,5
+632,507,207,250 mg,Twice daily,6,6
+633,508,208,10 mg,Three times daily,7,7
+634,509,209,40 mg,Once daily,8,8
+635,510,210,1 tablet,Twice daily,9,9
+636,511,211,500 mg,Three times daily,10,10
+637,512,212,250 mg,Once daily,11,11
+638,513,213,10 mg,Twice daily,12,12
+639,514,214,40 mg,Three times daily,13,13
+640,515,215,1 tablet,Once daily,14,14
+641,516,216,500 mg,Twice daily,15,15
+642,517,217,250 mg,Three times daily,16,16
+643,518,218,10 mg,Once daily,3,17
+644,519,219,40 mg,Twice daily,4,18
+645,520,220,1 tablet,Three times daily,5,19
+646,521,221,500 mg,Once daily,6,20
+647,522,222,250 mg,Twice daily,7,21
+648,523,223,10 mg,Three times daily,8,22
+649,524,224,40 mg,Once daily,9,23
+650,525,225,1 tablet,Twice daily,10,24
