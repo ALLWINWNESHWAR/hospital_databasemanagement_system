@@ -1,5 +1,5 @@
 
--- creating the tbles
+-- creating the tables
 /*
 
                        DEPARTMENT
