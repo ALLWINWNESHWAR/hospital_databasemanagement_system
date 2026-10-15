@@ -1347,6 +1347,7 @@ select * from payment;
 
 
 
+
 /*
 Hospital Management System
 │
